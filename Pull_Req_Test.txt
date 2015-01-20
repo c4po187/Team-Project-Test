@@ -1,0 +1,13 @@
+1. Fork this repository, so both of you have a copy.
+
+2. Download the repository locally to your computer, you will need github for windows installed.
+
+3. Modify this text file, add anything you please, it just needs to be different.
+
+4. Then, in your github application, you'll see that it'll say 'uncommited changes'. Fill in the summay and description and then commit.
+
+5. In the top right you'll see a sync button, hit that. Then it'll upload the changes your forked remote repository (online git). 
+
+6. Then go to the repository on git. You will see 'Pull Request'. Hit that and I'll get the request as I'm the master branch, then i'll pull it in and merge it, then our master is updated with nay changes made by any of the collaborators.
+
+7. If it all works we in buisness, then we can get our actual project up and follow the same process. 
