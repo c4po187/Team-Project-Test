@@ -11,3 +11,6 @@
 6. Then go to the repository on git. You will see 'Pull Request'. Hit that and I'll get the request as I'm the master branch, then i'll pull it in and merge it, then our master is updated with nay changes made by any of the collaborators.
 
 7. If it all works we in buisness, then we can get our actual project up and follow the same process. 
+
+
+done, done, doing, etc so far so good
