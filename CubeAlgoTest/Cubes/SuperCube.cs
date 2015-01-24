@@ -15,7 +15,7 @@ namespace CubeAlgoTest.Cubes {
             m_width = width;
             m_height = height;
             m_length = length;
-            m_cublings = new Cubling[3, 3, 3];
+            m_cublings = m_tmpCublings = new Cubling[3, 3, 3];
             m_timer = 0;
         }
 
