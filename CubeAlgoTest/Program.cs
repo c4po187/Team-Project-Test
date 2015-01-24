@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CubeAlgoTest.Cubes;
+using CubeAlgoTest.Metrics;
 
 namespace CubeAlgoTest {
     
@@ -18,8 +19,10 @@ namespace CubeAlgoTest {
                     200, 200, 200);
 
             Cubling c0 = new Cubling(superCube, 0, 1, 1);
-
             Console.WriteLine(c0.Width.ToString());
+
+            Block block = new Block { Height = 10, Width = 10, Length = 10 };
+            Console.WriteLine(block.Volume.ToString());
 
             Console.ReadKey();
         }
