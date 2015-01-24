@@ -1,0 +1,6 @@
+c:\users\c4po\documents\visual studio 2012\Projects\CubeAlgoTest\CubeAlgoTest\bin\Debug\CubeAlgoTest.exe.config
+c:\users\c4po\documents\visual studio 2012\Projects\CubeAlgoTest\CubeAlgoTest\bin\Debug\CubeAlgoTest.exe
+c:\users\c4po\documents\visual studio 2012\Projects\CubeAlgoTest\CubeAlgoTest\bin\Debug\CubeAlgoTest.pdb
+c:\users\c4po\documents\visual studio 2012\Projects\CubeAlgoTest\CubeAlgoTest\obj\Debug\CubeAlgoTest.csprojResolveAssemblyReference.cache
+c:\users\c4po\documents\visual studio 2012\Projects\CubeAlgoTest\CubeAlgoTest\obj\Debug\CubeAlgoTest.exe
+c:\users\c4po\documents\visual studio 2012\Projects\CubeAlgoTest\CubeAlgoTest\obj\Debug\CubeAlgoTest.pdb
